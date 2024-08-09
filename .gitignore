@@ -1,0 +1,15 @@
+# Ignore __pycache__ directories and .pyc files
+__pycache__/
+*.pyc
+
+# Ignore log files
+logs/
+logs/*
+/logs/
+/logs/*
+
+# Ignore Data
+data/
+data/*
+/data/
+/data/*

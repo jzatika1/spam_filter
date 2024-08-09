@@ -1,0 +1,6 @@
+Dear Dr. Lanier Watkins,
+
+Good Morning. As I was reviewing Assignment 1, to ensure that I had fully completed the assignment to specification, I have two more questions. First, I want to make sure that you do not want me to use any other machine-learning algorithms other than Naïve Bayes. Second, did you only want me to use the dataset (SMSSpamCollection) that was provided in the assignment (you do not want me to add other datasets to the model)? I want to ensure the model has the best chance to classify the two unseen spam and ham files. I appreciate your help.
+
+Thanks,
+J. Anthony Zatika
